@@ -3,7 +3,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Hosted Link: https://symphonious-sundae-732bfe.netlify.app/
+Hosted Link: https://gcnaveen.github.io/Employee-Management/
 
 ## Available Scripts
 
